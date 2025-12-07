@@ -1,0 +1,20 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1, p{
+        margin: 10px;
+        padding: 30px;
+}
+
+h1{
+    font-size: 1rem;
+    background-color: red;
+}
+
+p{
+    font-size: 20px;
+    background-color: yellow;
+}
